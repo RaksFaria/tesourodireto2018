@@ -1,0 +1,5 @@
+default: --no-source --color --format pretty
+
+login: -t @login_cpf_senha_validos -f html -o login_cpf_senha_validos.html
+
+
